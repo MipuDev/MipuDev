@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o MipuDev
+# 👋 Olá, eu sou o Mipu
 
 💻 Desenvolvedor em constante aprendizado, focado em construir coisas que fazem sentido  
 🤖 Uso Inteligência Artificial como apoio no desenvolvimento  
@@ -20,9 +20,3 @@
 🇧🇷 **Português** — Nativo &nbsp;&nbsp;
 🇺🇸 **English** — Aprendendo &nbsp;&nbsp;
 🇺🇾 **Español** — Aprendendo
-
----
-
-## 📊 Estatísticas
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MipuDev&show_icons=true&theme=tokyonight&hide_border=true)
