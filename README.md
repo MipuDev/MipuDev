@@ -1,24 +1,33 @@
 # 👋 Olá, eu sou o MipuDev
 
-💻 Desenvolvedor de bots para Discord
-🤖 Uso Inteligência Artificial como apoio no desenvolvimento
-🌎 Aprendendo Inglês e Espanhol
-🚀 Sempre aprendendo e evoluindo
+💻 Desenvolvedor em constante aprendizado, focado em construir coisas que fazem sentido  
+🤖 Uso Inteligência Artificial como apoio no desenvolvimento  
+🌎 Aprendendo Inglês e Espanhol  
+
+---
 
 ## 🚀 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Intelig%C3%AAncia%20Artificial-blue?style=for-the-badge)
+<img src="icons/go.svg" height="40" title="Go" />
+&nbsp;
+<img src="icons/rust.svg" height="40" title="Rust" />
+&nbsp;
+<img src="icons/postgresql.svg" height="40" title="PostgreSQL" />
+&nbsp;
+<img src="icons/sqlite.svg" height="40" title="SQLite" />
+
+---
 
 ## 🌐 Idiomas
 
-![English](https://img.shields.io/badge/English-Learning-orange?style=for-the-badge\&logo=google-chrome\&logoColor=white)
-![Spanish](https://img.shields.io/badge/Spanish-Learning-red?style=for-the-badge\&logo=google-chrome\&logoColor=white)
+<img src="icons/1f1e7-1f1f7.svg" height="20" /> **Português** — Nativo &nbsp;&nbsp;
+<img src="icons/1f1fa-1f1f8.svg" height="20" /> **English** — Aprendendo &nbsp;&nbsp;
+<img src="icons/1f1fa-1f1fe.svg" height="20" /> **Español** — Aprendendo
+
+---
 
 ## 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MipuDev\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MipuDev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MipuDev\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MipuDev&layout=compact&theme=tokyonight)
