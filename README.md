@@ -8,26 +8,21 @@
 
 ## 🚀 Tecnologias
 
-<img src="icons/go.svg" height="40" title="Go" />
-&nbsp;
-<img src="icons/rust.svg" height="40" title="Rust" />
-&nbsp;
-<img src="icons/postgresql.svg" height="40" title="PostgreSQL" />
-&nbsp;
-<img src="icons/sqlite.svg" height="40" title="SQLite" />
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 🌐 Idiomas
 
-<img src="icons/1f1e7-1f1f7.svg" height="20" /> **Português** — Nativo &nbsp;&nbsp;
-<img src="icons/1f1fa-1f1f8.svg" height="20" /> **English** — Aprendendo &nbsp;&nbsp;
-<img src="icons/1f1fa-1f1fe.svg" height="20" /> **Español** — Aprendendo
+🇧🇷 **Português** — Nativo &nbsp;&nbsp;
+🇺🇸 **English** — Aprendendo &nbsp;&nbsp;
+🇪🇸 **Español** — Aprendendo
 
 ---
 
 ## 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MipuDev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MipuDev&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MipuDev&show_icons=true&theme=tokyonight&hide_border=true)
