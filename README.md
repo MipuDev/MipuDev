@@ -19,7 +19,7 @@
 
 🇧🇷 **Português** — Nativo &nbsp;&nbsp;
 🇺🇸 **English** — Aprendendo &nbsp;&nbsp;
-🇪🇸 **Español** — Aprendendo
+🇺🇾 **Español** — Aprendendo
 
 ---
 
