@@ -1,38 +1,30 @@
-# mipu
+# olá, sou Mipu 👋
 
-> 18 · goiás 🇧🇷 · discord bots · ai enjoyer
-
-Construindo bots e ferramentas com Go e Rust. Apaixonado por sistemas eficientes e IA.
+de Goiás, Brasil — apaixonado por programação, IA e sempre aprendendo algo novo.
 
 ---
 
-## 🛠️ stack
+### sobre mim
 
-<table>
-  <tr>
-    <td valign="top">
-
-**backend**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</td>
-    <td valign="top">
-
-**frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</td>
-  </tr>
-</table>
+- 🤖 fascinado por **IA e LLMs**
+- 🌐 gosto de criar **sites e ferramentas**
+- 🎵 amante de música
+- ✝️ cristão
+- 📍 Goiás, BR
 
 ---
 
-## 📬 contato
+### stack
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4uc4Bqy8bA)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### onde me encontrar
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/4uc4Bqy8bA)
+[![Site](https://img.shields.io/badge/site-mipudev.vercel.app-black?style=flat-square)](https://mipudev.vercel.app)
