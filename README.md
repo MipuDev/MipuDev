@@ -1,46 +1,46 @@
-# olá, sou Mipu 👋
+<div align="center">
 
-de Goiás, Brasil, apaixonado por programação, IA e sempre aprendendo algo novo.
+# Olá, sou Mipu! 👋
 
-<br>
-
-### sobre mim
-
-- 🤖 fascinado por **IA e LLMs**
-- 🌐 gosto de criar **sites e ferramentas**
-- 💬 construo **bots pro Discord**
-- 🎵 amante de música
-- ✝️ cristão
-- 📍 Goiás, BR
+### 📍 Goiás, Brasil
 
 <br>
 
-### stack
-
-**linguagens**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**ferramentas e plataformas**
-
-![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**IA e LLMs**
-
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+> *"Vinde a mim, todos os que estão cansados e sobrecarregados, e eu lhes darei descanso."*
+> — Mateus 11:28
 
 <br>
 
-### onde me encontrar
+---
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/4uc4Bqy8bA)
-[![Site](https://img.shields.io/badge/site-mipudev.vercel.app-black?style=flat-square)](https://mipudev.vercel.app)
+## 🛠️ Habilidades Técnicas
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📡 Conecte-se comigo
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4uc4Bqy8bA)
+
+---
+
+## 📈 Estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=MipuDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MipuDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+---
+
+<sub>🌱 Sempre aprendendo — nunca paro.</sub>
+
+</div>
