@@ -34,13 +34,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=MipuDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MipuDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
----
-
 <sub>🌱 Sempre aprendendo — nunca paro.</sub>
 
 </div>
